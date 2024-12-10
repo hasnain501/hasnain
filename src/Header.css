@@ -1,0 +1,62 @@
+
+
+
+.header {
+    background-color: #e0f7fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Main Heading */
+  .header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #00695c;
+  }
+  
+  
+  .header h2 {
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #00796b;
+  }
+  
+  
+  .header p {
+    font-size: 1.1rem;
+    color: #004d40;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  
+  .header h3 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #004d40;
+  }
+  
+  
+  .header ul {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-left: 20px;
+    color: #004d40;
+  }
+  
+  /* Button Styling */
+  .header button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #00796b;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+  
+  .header button:hover {
+    background-color: #004d40;
+  }
+  
